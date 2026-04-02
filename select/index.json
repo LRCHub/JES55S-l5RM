@@ -1,0 +1,32 @@
+{
+  "version": 1,
+  "base_track": "一心不乱 / Reol(れをる)+ill.bell+nqrse Cover",
+  "base_artist": "Reol",
+  "createdAt": "2026-04-02T06:40:52.791821Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一心不乱",
+      "artist": "B'z",
+      "has_synced": false,
+      "path": "select/01_一心不乱_B'z.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一心不乱",
+      "artist": "れをる",
+      "has_synced": false,
+      "path": "select/pl_01_一心不乱_れをる.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "一心不乱",
+      "artist": "れをる",
+      "has_synced": false,
+      "path": "select/pl_02_一心不乱_れをる.txt"
+    }
+  ]
+}
